@@ -11,6 +11,6 @@ GH Project: https://github.com/users/myka-p/projects/6/views/1
 4. They browse around different categories.
 5. They find a find a piece that they like.
 6. They add it to their cart and proceeds to checkout.
-7. Before proceeding to pay, they decide to create an account for easier order tracking.
+7. Before proceeding to pay, they decide to create an account for easier order tracking and rewards point collection.
 8. They continue to checkout and enter their shipping and billing information.
 9. Their order goes through and they receive a confirmation email containing their order details.
